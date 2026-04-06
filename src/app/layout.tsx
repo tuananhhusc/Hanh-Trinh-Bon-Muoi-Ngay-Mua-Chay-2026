@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     siteName: "Nghiên cứu Thần học Mùa Chay",
     images: [
       {
-        url: "/hero-bg.png",
+        url: "https://ta.tuananhhusc.id.vn/Hanh-Trinh-Bon-Muoi-Ngay-Mua-Chay-2026/hero-bg.png",
         width: 1200,
         height: 630,
         alt: "Hành Trình Bốn Mươi Ngày Mùa Chay 2026",
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Hành Trình Mùa Chay 2026 | Phân Tích Thần Học",
     description: "Báo cáo về Hành Trình 40 Ngày Mùa Chay 2026 dưới nhãn quan Thần Học Phụng Vụ.",
-    images: ["/hero-bg.png"],
+    images: ["https://ta.tuananhhusc.id.vn/Hanh-Trinh-Bon-Muoi-Ngay-Mua-Chay-2026/hero-bg.png"],
   },
 };
 

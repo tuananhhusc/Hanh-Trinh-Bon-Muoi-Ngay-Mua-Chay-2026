@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import heroBg from "../../public/hero-bg.png";
 import { motion } from "framer-motion";
 import { BookOpen, Calendar, Building2, ScrollText } from "lucide-react";
 
@@ -17,7 +18,7 @@ export default function HeroSection() {
           transition={{ duration: 2, ease: "easeOut" }}
         >
           <Image 
-            src="/hero-bg.png" 
+            src={heroBg} 
             alt="Desert scenery"
             fill
             className="object-cover"
